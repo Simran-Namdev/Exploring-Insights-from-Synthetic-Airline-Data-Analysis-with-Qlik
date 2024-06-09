@@ -36,3 +36,5 @@ A data story was created to present the analysis and findings in a narrative for
 ## Requirements
 
 - Qlik Sense Desktop or Server
+
+Demo link: https://drive.google.com/file/d/1rfVlvDkPffOYY4i3oz2HHKmn3nrloKgo/view?usp=sharing
